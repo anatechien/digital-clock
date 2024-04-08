@@ -1,0 +1,23 @@
+@media(max-width: 1280px) {
+
+    .clock {
+        height: 150px;
+        width: 350px;
+        
+    }
+
+    .clock div {
+        height: 110px;
+        width: 102px;
+    }
+
+    .clock span {
+        font-weight: bolder;
+        font-size: 40px;
+    }
+
+    .clock span.time{
+        font-size: 13px;
+    }
+
+}
